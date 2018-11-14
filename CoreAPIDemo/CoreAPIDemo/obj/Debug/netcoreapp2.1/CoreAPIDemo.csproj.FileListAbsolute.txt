@@ -1,0 +1,14 @@
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\bin\Debug\netcoreapp2.1\CoreAPIDemo.deps.json
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\bin\Debug\netcoreapp2.1\CoreAPIDemo.runtimeconfig.json
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\bin\Debug\netcoreapp2.1\CoreAPIDemo.runtimeconfig.dev.json
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\bin\Debug\netcoreapp2.1\CoreAPIDemo.dll
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\bin\Debug\netcoreapp2.1\CoreAPIDemo.pdb
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\obj\Debug\netcoreapp2.1\CoreAPIDemo.csprojAssemblyReference.cache
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\obj\Debug\netcoreapp2.1\CoreAPIDemo.csproj.CoreCompileInputs.cache
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\obj\Debug\netcoreapp2.1\CoreAPIDemo.RazorAssemblyInfo.cache
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\obj\Debug\netcoreapp2.1\CoreAPIDemo.RazorAssemblyInfo.cs
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\obj\Debug\netcoreapp2.1\CoreAPIDemo.AssemblyInfoInputs.cache
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\obj\Debug\netcoreapp2.1\CoreAPIDemo.AssemblyInfo.cs
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\obj\Debug\netcoreapp2.1\CoreAPIDemo.RazorTargetAssemblyInfo.cache
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\obj\Debug\netcoreapp2.1\CoreAPIDemo.dll
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemo\obj\Debug\netcoreapp2.1\CoreAPIDemo.pdb

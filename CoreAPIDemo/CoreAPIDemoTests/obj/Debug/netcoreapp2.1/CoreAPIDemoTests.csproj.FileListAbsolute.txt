@@ -1,0 +1,17 @@
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\CoreAPIDemoTests.deps.json
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\CoreAPIDemoTests.runtimeconfig.json
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\CoreAPIDemoTests.runtimeconfig.dev.json
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\CoreAPIDemoTests.dll
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\CoreAPIDemo.dll
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\CoreAPIDemo.pdb
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\obj\Debug\netcoreapp2.1\CoreAPIDemoTests.csprojAssemblyReference.cache
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\obj\Debug\netcoreapp2.1\CoreAPIDemoTests.csproj.CoreCompileInputs.cache
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\obj\Debug\netcoreapp2.1\CoreAPIDemoTests.AssemblyInfoInputs.cache
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\obj\Debug\netcoreapp2.1\CoreAPIDemoTests.AssemblyInfo.cs
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\obj\Debug\netcoreapp2.1\CoreAPIDemoTests.csproj.CopyComplete
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\bin\Debug\netcoreapp2.1\CoreAPIDemoTests.pdb
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\obj\Debug\netcoreapp2.1\CoreAPIDemoTests.dll
+C:\Development\SourceCode\Demo\NetCore\CoreAPIDemo\CoreAPIDemoTests\obj\Debug\netcoreapp2.1\CoreAPIDemoTests.pdb
