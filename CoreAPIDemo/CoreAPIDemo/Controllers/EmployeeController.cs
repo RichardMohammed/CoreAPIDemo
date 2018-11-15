@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authentication.Cookies;
+using CoreAPIDemo.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CoreAPIDemo.Controllers
@@ -12,10 +10,24 @@ namespace CoreAPIDemo.Controllers
     [ApiController]
     public class EmployeeController: ControllerBase
     {
-        [HttpPost]
-        public bool Post()
+        private IEmployeeRepository _repo;
+
+        public EmployeeController(IEmployeeRepository repo)
         {
-            return true;
+            _repo = repo;
+
+        }
+
+        [HttpGet]
+        public List<EmployeeModel> Get()
+        {
+            return _repo.GetEmployees().ToList();
+        }
+
+        [HttpPost]
+        public bool Post([FromBody] EmployeeModel employee)
+        {
+          return  _repo.AddEmployee(employee);
         }
     }
 }
